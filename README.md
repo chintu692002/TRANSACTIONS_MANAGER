@@ -1,4 +1,4 @@
-# money_manager
+# TRANSACTIONS_MANAGER
 
 A new Flutter project.
 
